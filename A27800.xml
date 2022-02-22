@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to the Right Worshipful T.S., a member of the Honorable House of Commons with some remarques upon the intended act against nonconformists, in order to moderation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27800</idno>
+            <idno type="STC">Wing B242</idno>
+            <idno type="STC">ESTC R9681</idno>
+            <idno type="EEBO-CITATION">12532499</idno>
+            <idno type="OCLC">ocm 12532499</idno>
+            <idno type="VID">62798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 304:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to the Right Worshipful T.S., a member of the Honorable House of Commons with some remarques upon the intended act against nonconformists, in order to moderation.</title>
+                  <author>T. S.</author>
+                  <author>W. D. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.D.B.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62798:1" rendition="simple:additions"/>
+            <p>A LETTER TO The Right WORSHIPFUL <hi>T. S.</hi> A Member of the Honorable Houſe of Commons.</p>
+            <p>WITH SOME REMARQUES UPON The intended ACT AGAINST Nonconformiſts, In Order to Moderation.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62798:2"/>
+            <pb n="1" facs="tcp:62798:2"/>
+            <head>A LETTER TO The Right WORSHIPFUL <hi>T. S.</hi> A Member of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received yours, and therein the inten<g ref="char:EOLhyphen"/>ded Act againſt Non-conformiſts. In o<g ref="char:EOLhyphen"/>bedience to your Commands, I here ſend you my Sentiments of the Act; but I fear, I ſhall rather give you a te<g ref="char:EOLhyphen"/>ſtimony of my love, than of my wiſ<g ref="char:EOLhyphen"/>dome.</p>
+            <p>I do agree that Religion is the onely Orb which doth influence mens mindes; and except a Prince be powerful over their Religion (which is the bond of their Affection) he will have but a kinde of weak Dominion over their perſons.</p>
+            <p>But we ſhall obſerve in the Epoches and account of times, nothing is more dangerous than ſevere Laws in point of Religion; for it begets a contempt in them of the Go<g ref="char:EOLhyphen"/>vernment, often occaſions trouble, and many times makes
+<pb n="2" facs="tcp:62798:3"/>the people forſake their own Country: by this means the Princes ſtrength is weakned both in Power and Revenue. And whether the Penalties and Forfeitures in your inten<g ref="char:EOLhyphen"/>ded Act be not over-rigorous, I pray conſider.</p>
+            <p>We know that the <hi>Albigenſes,</hi> who were Non-confor<g ref="char:EOLhyphen"/>miſts to the Church of <hi>Rome,</hi> and refuſed to come to Church, the Council of <hi>Tholouſe</hi> impoſed but twelve pence a Sunday and Holy-day for their contempt; and in imitati<g ref="char:EOLhyphen"/>on of that, Queen <hi>Elizabeth</hi> of Famous Memory in the firſt year of her Reign impoſed onely twelve pence upon the Papiſts (which filled all our Churches:) but in the 23 year of her Reign, when the penalty was made twenty pounds a month, and after that in the 35 year of her Reign Ab<g ref="char:EOLhyphen"/>juration and Felony, there were rarely any proceedings up<g ref="char:EOLhyphen"/>on thoſe Acts: therefore I think, that good inſtructions, and ſmall penalties duly levied, will effect the beſt reformation.</p>
+            <p>All wiſe men do condemn <hi>Ferdinand</hi> the Catholick, who expelled out of his Kingdom 124000 Families of Iews, and <hi>Philip</hi> the Third of <hi>Spain</hi> 110000 Families of Moors, becauſe they did not conform to the Church of <hi>Rome,</hi> (which was a lopping off a main limb from the bo<g ref="char:EOLhyphen"/>dy Politick) for that Prince's Dominions have ever ſince been ſo deprived of people, that in <hi>Aragon</hi> and ſeveral o<g ref="char:EOLhyphen"/>ther of his Kingdoms, thoſe who will come and inhabit there, might have great quantities of Land <hi>gratis.</hi>
+            </p>
+            <p>It was always my judgement, that private perſons ought to give ſubmiſſion to publick Eſtabliſhments; and that there is no end of yielding to ſcruples: one ſcruple indul<g ref="char:EOLhyphen"/>ged begetteth another ſo long, till there is no Law left, but what pleaſeth their phanſie.</p>
+            <p>But Sir, let me tell you, the inundation of the late Troubles here, like the over-flowing of <hi>Nilus,</hi> hath left the ſeeds of many monſtrous Opinions amongſt us.</p>
+            <pb n="3" facs="tcp:62798:3"/>
+            <p>And perſons which have for a long time been nuzled up in erronious Principles, and peradventure thoſe adopted into the Family of their Faith, cannot without much difficulty be depoſed; and therefore I think it more ſafe to convince them by Reaſon and Evangelical Inſtructions, than by Severity to compel them. To this purpoſe I take it Catechiſing and Inſtructing of the people in the <hi>Nine and thirty Articles</hi> of the Church would be an excellent Expedient, the want whereof hath almoſt ruined the beſt Church in the world: For to deal plainly with you, I think not one of 10000 ever read the <hi>Nine and thirty Ar<g ref="char:EOLhyphen"/>ticles,</hi> much leſs underſtood them; and how would you have them ſubmit to thoſe things they never underſtood, and deſert thoſe which they take to be Truths, and Evan<g ref="char:EOLhyphen"/>gelical?</p>
+            <p>Undoubtedly it's wiſdome in Princes to reduce their Subjects to Uniformity of Religion, if it may be ſafely effected, and to obviate all new Opinions which may grow upon them: but if by ſufferance the number of Sub<g ref="char:EOLhyphen"/>jects profeſſing a Religion differing from their Princes, be grown to be equal or greater than thoſe which agree with him in Opinion, the way to reform this diſorder muſt be by Baniſhment, Death, an Act of Indulgence, or Evangelical Inſtructions. The firſt and ſecond would bring the ſame calamity and misfortunes upon us, as that of <hi>Fer<g ref="char:EOLhyphen"/>dinand</hi> and <hi>Philip</hi> the Third upon <hi>Spain:</hi> neither can they be done without great prejudice to the Princes Honour and Intereſt, when the lives and liberties of thoſe Subjects may be more beneficial unto him, than their deaths or baniſh<g ref="char:EOLhyphen"/>ments: therefore I think, with ſubmiſſion to your great judgment, till people be perfectly inſtructed in the <hi>Church-catechiſm,</hi> and in the <hi>Nine and thirty Articles,</hi> it would be great Prudence to grant them a latitude, and ſome In<g ref="char:EOLhyphen"/>dulgence:
+<pb n="4" facs="tcp:62798:4"/>for we all agree in the Doctrine and Funda<g ref="char:EOLhyphen"/>mental parts, only differ in ſome minute Ceremonies, which are but the Out-works of Religion. By this means, in ſome time, we ſhould all incorporate, and grow up into one body; whereas by ſevere Laws, you will eſtabliſh that Separation, which you intend to prevent. It will be the only cement of King and People, and a means not only to ſettle peace in his Majeſties Kingdoms, but to re-inpa<g ref="char:EOLhyphen"/>triate and bring back multitudes of people which have iſſued out of this Kingdom to its almoſt undoing, and likewiſe invite many people of other Nations to come and live amongſt us. By this means the ſtock of people would be increaſed (which we now want) and the King thereby become more potent in Power and Reve<g ref="char:EOLhyphen"/>nue.</p>
+            <p>Howſoever, it's better for the Church to want ſome Truths, than to have no Peace. The Church and Com<g ref="char:EOLhyphen"/>monwealth are collective bodies made up of many into one; they are ſo neer allied, that the one, the Church, cannot ſubſiſt but in the other, the Commonwealth: and the ſame men which in reſpect of Allegiance make the Com<g ref="char:EOLhyphen"/>monwealth, do in reſpect of one Faith make the Church.</p>
+            <p>That which hath begotten a tenderneſs in me towards theſe diſſenters, is this. Sir, there are not above 9000 Be<g ref="char:EOLhyphen"/>nefices in this Kingdom, and there are about 30000, as I am informed, admitted into Holy Orders; certainly a great Soloeciſm in point of State: For, Sir, I pray tell me how you would have the other 21000 to ſubſiſt: they are men of Learning and Parts, and moſt of them have nothing to ſupport them but their Piety and Virtues.</p>
+            <p>You know, Sir, till Covetouſneſs crept in amongſt us, there were none by the Canon of the Church to be or<g ref="char:EOLhyphen"/>dained, but ſuch as had a title to a Benefice; if the Biſhop
+<pb n="5" facs="tcp:62798:4"/>ordained any that had not, he was at his own charges to maintain them until they were promoted: certainly an excellent Law, and would have been a means to have pre<g ref="char:EOLhyphen"/>vented Itinerant Preachers, and thoſe misfortunes in this Kingdom of which we are ſadly ſenſible, to our great grief.</p>
+            <p>But that which adds Affliction to Calamity, thoſe 9000 Benefices are enjoyed by 5000 Parſons at the moſt, ſome of them having four or five Benefices; and being not a<g ref="char:EOLhyphen"/>ble to officiate in them all (as it may be a great happi<g ref="char:EOLhyphen"/>neſs to the Pariſhioners they are not) they appoint ig<g ref="char:EOLhyphen"/>norant, ſcandalous, and deboiſed perſons (and ſuch as will ſerve them for the ſmalleſt wages) to officiate for them. By this means many of the Pariſhioners forbear to come to Church, by reaſon of their ignorance; and o<g ref="char:EOLhyphen"/>thers withdraw, by reaſon of their deboiſeneſs: ſo that in many places not one third of the people come to their Pariſh-church, but have their Meeting-places (where they think they may ſerve God with knowledge and in Purity:) and they can never want Teachers and Parſons to encourage them, there being ſuch multitudes in Orders and unprovided for, that if they ſhould not take this courſe, they muſt periſh and live in miſery, notwithſtand<g ref="char:EOLhyphen"/>ing the eminent parts and vertues in many of them. For let me tell you, Sir, there is ſuch a ſurcharge of theſe in this Nation, that if ſome timely courſe be not taken, they will undo the Church, as the multitude of Attor<g ref="char:EOLhyphen"/>neys have the Commonwealth.</p>
+            <p>Sir, I am apt to think the beſt expedient to eſtabliſh the people in the good opinion of the Church of <hi>England,</hi> and to bring back others which are gone from it, is to eſtabliſh by Act of Parliament as followeth.</p>
+            <pb n="6" facs="tcp:62798:5"/>
+            <p>
+               <hi>None to be ordained, but ſuch as are fitly qualified as to Piety and Learning.</hi>
+            </p>
+            <p>
+               <hi>None to be ordained, but ſuch as have a Title to a Bene<g ref="char:EOLhyphen"/>fice; and if the Biſhop ordain any that have not, he to maintain them, till they be promoted, at his own charge.</hi>
+            </p>
+            <p>
+               <hi>None to have above two Benefices.</hi>
+            </p>
+            <p>
+               <hi>All perſons to be catechiſed and inſtructed in the</hi> 39 Ar<g ref="char:EOLhyphen"/>ticles <hi>of the Church of</hi> England.</p>
+            <p>For be aſſured, Sir, nothing can reſtore this Church, but Holineſs of Life, and Exemplary Vertue.</p>
+            <p>And they are not fit to be Copies to others, which are not fair writ themſelves.</p>
+            <p>But there are too many amongſt us who pull down by their bad Lives, what they ſet up by their indifferent Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>For my part, I ſhall never approve of any of them, but ſuch as like <hi>Aarons</hi> Golden Plate in his Miter, have <hi>Holi<g ref="char:EOLhyphen"/>neſs</hi> ſtamped upon them.</p>
+            <p>Sir, I beg your Pardon for this Interruption to your more ſerious Imployment: I am Sir,</p>
+            <closer>
+               <signed>Your faithful Servant <hi>W. D. B.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
